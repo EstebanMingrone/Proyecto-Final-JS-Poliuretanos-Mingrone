@@ -57,3 +57,46 @@ body{
     box-shadow: 1px 2px 8px 1px black;
     margin: 5px;
 }
+
+.main{
+    color: #341a0e;
+}
+
+.enviarBtn{
+    color: white;
+    background-color: #341a0e;
+}
+
+.modal{
+    color: black;
+}
+
+.modal h1{
+    color: #341a0e;
+}
+
+.card{
+    box-shadow: 1px 2px 2px 1px gray;
+}
+
+.footer{
+    background-color: #341a0e;
+}
+
+.footer h5{
+    color: white;
+    font-size: 18px;
+    border-top: solid black 3px;
+    padding: 5px;
+}
+
+.filterBtn{
+    color: white;
+    background-color: #341a0e;
+    border: solid black;
+    border-radius: 20px;
+}
+
+.filterBtn:hover{
+    box-shadow: 0 0 0 2px black;
+}
